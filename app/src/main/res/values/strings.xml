@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Mbekarm Calculator</string>
+    <string name="firstno">Enter First Number</string>
+    <string name="calc_ttl"><u>Mbekarm Calculator</u></string>
+    <string name="secondno.">Enter Second Number</string>
+    <string name="addbtn">Add (+)</string>
+    <string name="subtractbtn">Subtract (-)</string>
+    <string name="multiplybtn">Multiply (*)</string>
+    <string name="dividebtn" >Divide (/)</string>
+
+</resources>
